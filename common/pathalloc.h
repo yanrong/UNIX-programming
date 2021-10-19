@@ -1,0 +1,1 @@
+char * path_alloc(size_t *);
